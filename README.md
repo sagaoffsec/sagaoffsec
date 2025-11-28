@@ -1,3 +1,1 @@
-# Hey, I'm Jackson!
-
-
+<h1 align="center">Hey, I'm Jackson!</h1>
