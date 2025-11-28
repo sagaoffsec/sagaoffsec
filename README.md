@@ -2,4 +2,4 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/sagaoffsec/template/refs/heads/main/img/terminal.gif" alt="My animated terminal banner" />
 </p>
-<i align="center">building...!</i>
+<p align="center" style="color:red;"><i>building...!</i></p>
